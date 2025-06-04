@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech News App - Privacy Policy</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; }
+        h1 { color: #333; }
+        h2 { color: #666; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Tech News App</h1>
+    <p><strong>Last Updated: June 4, 2025</strong></p>
+    
+    <h2>Overview</h2>
+    <p>Tech News App is a simple RSS news reader that prioritizes your privacy. This policy explains how we handle information in our app.</p>
+    
+    <h2>Data Collection</h2>
+    <p><strong>We do not collect, store, or transmit any personal data.</strong></p>
+    
+    <p>Specifically, we do not collect:</p>
+    <ul>
+        <li>Personal information (names, emails, phone numbers)</li>
+        <li>Location data</li>
+        <li>Usage analytics</li>
+        <li>Crash reports</li>
+        <li>Device identifiers</li>
+        <li>Browsing history</li>
+        <li>Account information</li>
+    </ul>
+    
+    <h2>How the App Works</h2>
+    <ul>
+        <li><strong>RSS Feeds</strong>: The app downloads public RSS feeds directly from news sources</li>
+        <li><strong>Local Storage</strong>: Article preferences (bookmarks, read status) are stored locally on your device only</li>
+        <li><strong>No Servers</strong>: We do not operate any servers or databases that store your information</li>
+        <li><strong>No Accounts</strong>: No user accounts or sign-ups required</li>
+    </ul>
+    
+    <h2>Third-Party Content</h2>
+    <p>The app displays content from various news sources via their public RSS feeds. We are not responsible for the privacy practices of these news sources. When you tap to read a full article, you'll be taken to the original publisher's website, which may have its own privacy policy.</p>
+    
+    <h2>Data Security</h2>
+    <p>Since we don't collect data, there's no personal data to be compromised. All app preferences are stored locally on your device using iOS's secure storage mechanisms.</p>
+    
+    <h2>Children's Privacy</h2>
+    <p>Our app does not collect personal information from anyone, including children under 13.</p>
+    
+    <h2>Changes to This Policy</h2>
+    <p>We may update this privacy policy from time to time. Any changes will be reflected on this page with an updated "Last Updated" date.</p>
+    
+    <h2>Contact</h2>
+    <p>If you have questions about this privacy policy, you can contact us at: matt.o.bell@gmail.com</p>
+    
+    <hr>
+    <p><strong>Summary: This app collects zero personal data and stores all preferences locally on your device.</strong></p>
+</body>
+</html>
